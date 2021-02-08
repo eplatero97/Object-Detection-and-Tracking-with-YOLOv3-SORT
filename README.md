@@ -70,4 +70,4 @@ This repository simplifies the deployment of the above model by:
 
 #### Github@ [guillelopez](https://github.com/guillelopez/python-traffic-counter-with-yolo-and-sort)
 
-#### Github@ [yhengchen]([Object-Detection-and-Tracking/OneStage/yolo/yolov3_sort at master · yehengchen/Object-Detection-and-Tracking (github.com)](https://github.com/yehengchen/Object-Detection-and-Tracking/tree/master/OneStage/yolo/yolov3_sort))
+#### Github@ [yhengchen](https://github.com/yehengchen/Object-Detection-and-Tracking/tree/master/OneStage/yolo/yolov3_sort))
