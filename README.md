@@ -59,7 +59,7 @@ $ python3 main.py --input input/test.mp4 --output output/test.avi --yolo yolo-ob
 
 ### Credit
 
-This implementation was fully taken from [this]([Object-Detection-and-Tracking/OneStage/yolo/yolov3_sort at master · yehengchen/Object-Detection-and-Tracking (github.com)](https://github.com/yehengchen/Object-Detection-and-Tracking/tree/master/OneStage/yolo/yolov3_sort)) repository.
+This implementation was fully taken from [this](https://github.com/yehengchen/Object-Detection-and-Tracking/tree/master/OneStage/yolo/yolov3_sort) repository.
 
 This repository simplifies the deployment of the above model by:
 
