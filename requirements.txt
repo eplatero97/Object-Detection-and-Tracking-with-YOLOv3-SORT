@@ -1,0 +1,6 @@
+opencv-python==4.1.0
+numpy==1.18.1
+numba==0.52.0
+imutils==0.5.4
+filterpy==1.4.5
+scipy==1.4.1
